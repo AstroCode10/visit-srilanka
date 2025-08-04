@@ -98,7 +98,7 @@ export default function Home() {
           <div className="max-w-md">
             <h3 className="text-2xl font-semibold mb-4">August Pick: Nuwara Eliya</h3>
             <p className="text-gray-700 mb-4">
-              Known as "Little England," this hill country escape offers tea plantations, cool weather, and colonial charm.
+              Known as &quot;Little England,&quot; this hill country escape offers tea plantations, cool weather, and colonial charm.
             </p>
             <Link href="/mountains/nuwara-eliya">
               <Button>Read More</Button>
